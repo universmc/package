@@ -16,7 +16,7 @@ touch src/html/index.html src/svg/icon.svg src/css/styles.css src/js/scripts.js 
 
 # Initialiser un projet npm
 git clone https://github.com/universmc/package
-
+node run.js
 # Créer un fichier .gitignore
 cat > .gitignore << EOF
 node_modules
